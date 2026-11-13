@@ -1,0 +1,259 @@
+{
+  "participants": [
+    {
+      "name": "Cleo",
+      "family": "Tangerine",
+      "serial": "055343",
+      "hex": "#fc9c19",
+      "paletteIndex": 2
+    },
+    {
+      "name": "Opal",
+      "family": "Honey",
+      "serial": "791612",
+      "hex": "#ffa224",
+      "paletteIndex": 3
+    },
+    {
+      "name": "Soren",
+      "family": "Lime",
+      "serial": "138601",
+      "hex": "#83b922",
+      "paletteIndex": 4
+    },
+    {
+      "name": "Sora",
+      "family": "Magenta",
+      "serial": "030219",
+      "hex": "#cf40b4",
+      "paletteIndex": 10
+    },
+    {
+      "name": "Noa",
+      "family": "Lavender",
+      "serial": "240982",
+      "hex": "#8064e2",
+      "paletteIndex": 9
+    },
+    {
+      "name": "Thea",
+      "family": "Honey",
+      "serial": "988988",
+      "hex": "#ffe24e",
+      "paletteIndex": 3
+    },
+    {
+      "name": "Iris",
+      "family": "Tangerine",
+      "serial": "263343",
+      "hex": "#fc8b19",
+      "paletteIndex": 2
+    },
+    {
+      "name": "Vera",
+      "family": "Lavender",
+      "serial": "393022",
+      "hex": "#7c54cd",
+      "paletteIndex": 9
+    },
+    {
+      "name": "Mara",
+      "family": "Tide",
+      "serial": "528759",
+      "hex": "#10b7b9",
+      "paletteIndex": 6
+    },
+    {
+      "name": "Brea",
+      "family": "Honey",
+      "serial": "493104",
+      "hex": "#f8ae24",
+      "paletteIndex": 3
+    }
+  ],
+  "messages": [
+    {
+      "author": "Cleo",
+      "colorHex": "#fc9c19",
+      "paletteIndex": 2,
+      "mood": 5,
+      "intensity": 0.96,
+      "emotion": "joyful",
+      "text": "Love is making me smile for no reason",
+      "pairId": 2,
+      "x": 0.9387912809451864,
+      "y": 0.7397127693021015
+    },
+    {
+      "author": "Opal",
+      "colorHex": "#ffa224",
+      "paletteIndex": 3,
+      "mood": 5,
+      "intensity": 0.78,
+      "emotion": "proud",
+      "text": "I achieved something I worked months for",
+      "pairId": 4,
+      "x": 0.16865708465316864,
+      "y": 0.8744487581091205
+    },
+    {
+      "author": "Soren",
+      "colorHex": "#83b922",
+      "paletteIndex": 4,
+      "mood": 3,
+      "intensity": 0.84,
+      "emotion": "calm",
+      "text": "Sat by the window in the quiet and felt peaceful.",
+      "pairId": 0,
+      "x": 0.20867018902038348,
+      "y": 0.09364185595145147
+    },
+    {
+      "author": "Sora",
+      "colorHex": "#cf40b4",
+      "paletteIndex": 10,
+      "mood": 4,
+      "intensity": 0.63,
+      "emotion": "grateful",
+      "text": "Grateful for the friend who called just to check on me.",
+      "pairId": 1,
+      "x": 0.5396000841749947,
+      "y": 0.5
+    },
+    {
+      "author": "Noa",
+      "colorHex": "#8064e2",
+      "paletteIndex": 9,
+      "mood": 4,
+      "intensity": 0.63,
+      "emotion": "sad",
+      "text": "Went for a slow walk and the quiet really helped me breathe.",
+      "pairId": 3,
+      "x": 0.960996878603833,
+      "y": 0.3063976293597547
+    },
+    {
+      "author": "Thea",
+      "colorHex": "#ffe24e",
+      "paletteIndex": 3,
+      "mood": 4,
+      "intensity": 0.63,
+      "emotion": "grateful",
+      "text": "A kind message from a friend made my whole day.",
+      "pairId": 4,
+      "x": 0.44942435285292753,
+      "y": 0.5463314570853844
+    },
+    {
+      "author": "Iris",
+      "colorHex": "#fc8b19",
+      "paletteIndex": 2,
+      "mood": 4,
+      "intensity": 0.99,
+      "emotion": "calm",
+      "text": "Found a calm moment with tea and it felt peaceful.",
+      "pairId": 2,
+      "x": 0.6360624240512105,
+      "y": 0.018869023278163255
+    },
+    {
+      "author": "Vera",
+      "colorHex": "#7c54cd",
+      "paletteIndex": 9,
+      "mood": 5,
+      "intensity": 0.78,
+      "emotion": "grateful",
+      "text": "So thankful for the people who show up for me.",
+      "pairId": 1,
+      "x": 0.5077413745194821,
+      "y": 0.41179056482505716
+    },
+    {
+      "author": "Mara",
+      "colorHex": "#10b7b9",
+      "paletteIndex": 6,
+      "mood": 5,
+      "intensity": 1.0,
+      "emotion": "proud",
+      "text": "Did it! Passed my exam and I'm proud of myself.",
+      "pairId": 3,
+      "x": 0.0006552437023427116,
+      "y": 0.47441065928881226
+    },
+    {
+      "author": "Brea",
+      "colorHex": "#f8ae24",
+      "paletteIndex": 3,
+      "mood": 5,
+      "intensity": 0.78,
+      "emotion": "joyful",
+      "text": "So happy today",
+      "pairId": 0,
+      "x": 0.5861668990238753,
+      "y": 0.9925193047105964
+    }
+  ],
+  "links": [
+    {
+      "ax": 0.9387912809451864,
+      "ay": 0.7397127693021015,
+      "bx": 0.5077413745194821,
+      "by": 0.41179056482505716,
+      "ca": "#fc9c19",
+      "cb": "#7c54cd",
+      "kind": "stranger",
+      "distance": 0.54
+    },
+    {
+      "ax": 0.20867018902038348,
+      "ay": 0.09364185595145147,
+      "bx": 0.6360624240512105,
+      "by": 0.018869023278163255,
+      "ca": "#83b922",
+      "cb": "#fc8b19",
+      "kind": "stranger",
+      "distance": 0.492
+    },
+    {
+      "ax": 0.960996878603833,
+      "ay": 0.3063976293597547,
+      "bx": 0.20867018902038348,
+      "by": 0.09364185595145147,
+      "ca": "#8064e2",
+      "cb": "#83b922",
+      "kind": "stranger",
+      "distance": 0.565
+    },
+    {
+      "ax": 0.44942435285292753,
+      "ay": 0.5463314570853844,
+      "bx": 0.0006552437023427116,
+      "by": 0.47441065928881226,
+      "ca": "#ffe24e",
+      "cb": "#10b7b9",
+      "kind": "stranger",
+      "distance": 0.568
+    }
+  ],
+  "themes": [
+    {
+      "name": "friend",
+      "emotion": "grateful",
+      "cx": 0.49892193718246813,
+      "cy": 0.4860406739701472,
+      "count": 3,
+      "color": "#FFC93C",
+      "members": [
+        3,
+        5,
+        7
+      ]
+    }
+  ],
+  "bounds": {
+    "minx": 0.0006552437023427116,
+    "maxx": 0.960996878603833,
+    "miny": 0.018869023278163255,
+    "maxy": 0.9925193047105964
+  }
+}

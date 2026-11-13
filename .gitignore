@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+render/.venv/
+
+# build output
+dist/
+dev-dist/
+
+# python
+__pycache__/
+*.pyc
+
+# env / secrets
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
